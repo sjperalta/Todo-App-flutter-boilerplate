@@ -9,6 +9,9 @@
 
 TaskFlow is a modern, intuitive todo application built with Flutter using the Nylo framework. It provides users with a clean, organized way to manage their tasks across different categories with a focus on visual appeal and user experience.
 
+<img src="https://github.com/sjperalta/Todo-App-flutter-boilerplate/blob/main/img/home.png" alt="Home" width="250px">
+<img src="https://github.com/sjperalta/Todo-App-flutter-boilerplate/blob/main/img/task.png" alt="Home" width="250px">
+
 ## ✨ Features
 
 ### Core Functionality
